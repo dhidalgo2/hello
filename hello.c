@@ -7,5 +7,8 @@ int main(int argc, char **argv) {
   printf("David Hidalgo")
   printf("Computer Science!\n");
 
+  printf("Gupil Kodali")
+  printf("Computer Science!\n");
+
   return 0;
 }
